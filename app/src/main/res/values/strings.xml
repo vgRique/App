@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="login">Login</string>
+    <string name="fa_a_login_para_continuar">Faça login para continuar</string>
+    <string name="por_favor_insira_seu_email">Por favor insira seu email</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="nuvem_superior">nuvem_superior</string>
+    <string name="nuvem_inferior">nuvem_inferior</string>
+    <string name="insira_email">Por favor insira seu email</string>
+    <string name="por_favor_insira_sua_senha">Por favor insira sua senha</string>
+    <string name="esqueceu_a_senha">esqueceu a senha?</string>
+    <string name="entrar">entrar</string>
+    <string name="cadastre_se">cadastre-se</string>
+    <string name="sair">sair</string>
+    <string name="Sair">Sair</string>
+    <string name="esqueci_a_senha">esqueci a senha</string>
+    <string name="esqueceu_sua_senha">esqueceu sua senha?</string>
+    <string name="enviar">enviar</string>
+    <string name="crie_uma_conta_para_continuar">Crie uma conta para continuar</string>
+    <string name="inscrever_se">Inscrever-se</string>
+    <string name="criar_uma_conta_nova">Criar uma conta nova</string>
+    <string name="por_favor_insira_seu_nome">Por favor insira seu nome</string>
+    <string name="criar">Criar</string>
+</resources>
